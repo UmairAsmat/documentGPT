@@ -1,14 +1,3 @@
-```markdown
-<div align="center">
-  <h1>📄🤖 DocumentGPT: Chat with Your Files!</h1>
-  <p>
-    <em>Effortlessly interact with your documents using AI.</em>
-  </p>
-  <img src="https://user-images.githubusercontent.com/your-image-url/banner.png" alt="DocumentGPT Banner" width="600">
-</div>
-
----
-
 ## 🌟 Features
 
 - **Upload and Chat:** Seamlessly upload PDF and DOCX files and interact with them in real-time.
